@@ -6,6 +6,7 @@ using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
 using CrockPotRecipes.WebMvc.Models;
+using CrockPotRecipes.Data;
 
 namespace CrockPotRecipes.WebMvc
 {

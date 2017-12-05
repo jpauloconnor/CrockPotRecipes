@@ -9,6 +9,7 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using CrockPotRecipes.WebMvc.Models;
+using CrockPotRecipes.Data;
 
 namespace CrockPotRecipes.WebMvc.Controllers
 {
